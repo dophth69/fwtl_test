@@ -2,7 +2,7 @@ admins: []
 forwards:
 - source: LSD_Vietnam
   dest:
-  - me
+  - TheLSDreamerLand_420
   offset: 5
   end: 0
 show_forwarded_from: false
